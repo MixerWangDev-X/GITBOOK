@@ -5,3 +5,7 @@
 ## 1 我们的工作区
 
 * [1.1 序章](1-wo-men-de-gong-zuo-qu/1.1-xu-zhang.md)
+
+## 杂项
+
+* [可能影响运行的文件](za-xiang/ke-neng-ying-xiang-yun-hang-de-wen-jian.md)
