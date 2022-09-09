@@ -23,7 +23,7 @@
 接下来就是对工作组的规范：
 
     换句话说，咱们就是提前说明一下。
-    Microsoft 365组织域，我们标记为ys<你的原神UID>.onmicrosoft.com(表明这是虚构的)，邮箱就<角色英文名>@ys<你的原神UID>.onmicrosoft.com(表明这是虚构的)。
+    Microsoft 365组织域，我们标记为<自定义域>.onmicrosoft.com(表明这是虚构的)，邮箱就<角色英文名>@<现有Microsoft 365域>(表明这是虚构的)。
     就这么多。
 
 注意：这篇文章由社区创作，不属于米哈游、COGNOSPHERE CO LTD，与他们没有任何关联。
