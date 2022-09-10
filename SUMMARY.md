@@ -9,3 +9,7 @@
 ## 杂项
 
 * [可能影响运行的文件](za-xiang/ke-neng-ying-xiang-yun-hang-de-wen-jian.md)
+
+***
+
+* [MixerWangDev X工作网络对原神同人文的运行规范](mixerwangdevxgong-zuo-wang-luo-dui-yuan-shen-tong-ren-wen-de-yun-hang-gui-fan.md)
